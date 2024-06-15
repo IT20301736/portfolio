@@ -35,6 +35,6 @@ The "Language for Presentations" lecture focuses on techniques to enhance the fl
 
 ## Professional Certificates
 ***MongoDB for SQL Experts***
-![MongoDB-cert1](/asset/certificate1.png)
+![MongoDB-cert1](/asset/certificate1.PNG)
 ***MongoDB and the Document Model***
-![MongoDB-cert2](/asset/certificate2.png)
+![MongoDB-cert2](/asset/certificate2.PNG)
